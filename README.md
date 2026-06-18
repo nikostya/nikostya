@@ -9,7 +9,7 @@ Telecom support leader with 10+ years in mobile network operations, data-driven 
 ---
 ###### EXPERIENCE
 
-### 🟢 Technical Support Manager
+### ◽ Technical Support Manager
 08/2019 — 11/2025 / [MegaFon PJSC](https://corp.megafon.ru/about/) , Russia
 - Led a technical support department of 100+ engineers, ensuring 24/7 service continuity for mobile network infrastructure (RAN, BSS, Core).
 - Managed service-level KPIs, incident escalations, and major outage resolution processes across multiple regions.
@@ -19,7 +19,7 @@ Telecom support leader with 10+ years in mobile network operations, data-driven 
 
 🥷 **Key skills:** Operations leadership, SLA management, cross-functional coordination, network incident response, internal tooling.
 
-### 🟢 Technical Support Analyst
+### ◽ Technical Support Analyst
 
 10/2016 — 08/2019 / [MegaFon PJSC](https://corp.megafon.ru/about/) , Russia
 
@@ -31,7 +31,7 @@ Telecom support leader with 10+ years in mobile network operations, data-driven 
 
 🥷 **Key skills:** Root cause analysis, data reporting, SQL, Excel (advanced), SAP BO, workflow improvement, network statistics.
 
-### 🟢 Technical Support Expert
+### ◽ Technical Support Expert
 
 04/2014 — 10/2016 / [MegaFon PJSC](https://corp.megafon.ru/about/) , Russia
 
